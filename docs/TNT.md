@@ -1,12 +1,15 @@
 # experiment 3 - Use of a physics engine (such as matter.js) to create an interactive simulation of real world (or unreal/subverted) behaviour, or a game mechanic based on physics. #
 
+[run simulation](ex3_TNT/index.html)
+
 ## Overview ##
 
 I tweaked work made by the coding train, which originally made rectangle objects generate when the mouse gets clicked. I changes the objects into spheres, added walls, and created a new class, for TNT. When the user clicks, it drops a minecraft TNT block, which explodes after 5 seconds, sending nearby spheres flying.
 
 
 ## first version ##
-![first version](image-4.png)
+![first version](image-4.png)  
+
 This image shows the first iteration on the original code, where i had changed the rectangles for circles.
 
 ![alt text](image-5.png)
